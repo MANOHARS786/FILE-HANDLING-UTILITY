@@ -50,3 +50,12 @@ Exit the program.
 For Write and Modify operations, the program accepts user input using the Scanner class and performs the requested actions on the file.
 
 Proper error handling ensures that issues like missing files or incorrect paths are handled gracefully.
+
+*OUTPUT*
+
+![Image](https://github.com/user-attachments/assets/999e848c-e14e-4159-ba46-7058d840f878)
+![Image](https://github.com/user-attachments/assets/5685a0f7-4af0-43fd-9684-9caf11da7e8a)
+
+
+
+
